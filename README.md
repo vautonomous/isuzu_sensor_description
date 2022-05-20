@@ -1,1 +1,1 @@
-isuzu_sensors_description
+isuzu_sensor_description
